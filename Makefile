@@ -12,3 +12,6 @@ prod: deploy
 
 destroy:
 	@up stack delete --async --force
+
+local:
+	go run main.go

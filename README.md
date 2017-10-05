@@ -20,6 +20,9 @@ Hello World!
 # Deploy the service to production
 $ make prod
 
-# Delete all resources again
+# Delete all AWS resources again
 $ make destroy
+
+# Test service locally
+$ make local PORT=10000
 ```
