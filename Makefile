@@ -14,4 +14,4 @@ destroy:
 	@up stack delete --async --force
 
 local:
-	go run main.go
+	@go run main.go
