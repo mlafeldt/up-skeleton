@@ -1,6 +1,6 @@
 # Up Skeleton
 
-A skeleton Go service deployed via [Up](https://apex.github.io/up/).
+A skeleton project showing how to deploy a Go service as an AWS Lambda function via [Up](https://apex.github.io/up/).
 
 ## Usage
 
