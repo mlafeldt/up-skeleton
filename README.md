@@ -2,6 +2,8 @@
 
 A skeleton project showing how to deploy a Go service as an AWS Lambda function via [Up](https://apex.github.io/up/).
 
+Note: While I haven't used Up in production yet, it definitely is one of the easiest ways to prototype microservices in AWS.
+
 ## Usage
 
 ```bash
