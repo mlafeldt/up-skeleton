@@ -2,6 +2,7 @@ ENV = staging
 
 deploy: up.json
 	@up deploy $(ENV) -v
+	@echo
 	@up url $(ENV)
 
 stage: ENV=staging
